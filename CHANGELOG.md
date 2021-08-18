@@ -1,5 +1,10 @@
 # Zappa Changelog
 
+## 0.54.0
+
+* Remove pinned version dependency on Werkzeug
+* Support Python 3.9.x
+
 ## 0.53.0
 
 * Deprecated ACME v1 for Lets Encrypt
